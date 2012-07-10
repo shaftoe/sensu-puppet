@@ -1,0 +1,2 @@
+name 'shaftoe-sensu-puppet'
+
